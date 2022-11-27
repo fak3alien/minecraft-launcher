@@ -1,0 +1,8 @@
+{
+  "version": "0.2",
+  "enabled": true,
+  "language": "en-US",
+  "allowCompoundWords": true,
+  "dictionaries": ["typescript", "node", "npm", "html"],
+  "enabledLanguageIds": []
+}
